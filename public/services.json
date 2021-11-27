@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Canon 2000",
+        "price": "40000",
+        "description": "Canon EOS (Electro-Optical System) is an autofocus single-lens reflex camera (SLR) and mirrorless camera series produced by Canon",
+        "img": "https://i.ibb.co/jfpvm3v/9.jpg"
+    },
+    {
+        "name": "Kodak AZ252",
+        "price": "45000",
+        "description": "With 16 megapixels, 25X optical zoom and a wider angle lens than traditional models, this camera might just become your new best friend.",
+        "img": "https://i.ibb.co/j8S5ZNg/10.jpg"
+    },
+    {
+        "name": "Kodak FZ53",
+        "price": "42000",
+        "description": "The Kodak Pixpro FZ53 is a slim compact camera with an affordable price tag and 5x zoom lens.",
+        "img": "https://i.ibb.co/WW2Qkdq/8.jpg"
+    },
+    {
+        "name": "Fuzi film",
+        "price": "40000",
+        "description": "3 Exif 2.3 is a digital camera file format that contains a variety of shooting information for optimal printing.",
+        "img": "https://i.ibb.co/d5wmm5z/1.jpg"
+    },
+    {
+        "name": "Canon EO6",
+        "price": "40000",
+        "description": "Canon Eos 6D · 20.2MP full frame CMOS sensor · DIGIC 5+ image processor.4.5 fps continuous shooting",
+        "img": "https://i.ibb.co/gTHq2JX/2.jpg"
+    },
+    {
+        "name": "Nikon XZ65",
+        "price": "40000",
+        "description": "Nikon Z FC specifications. The mirrorless Nikon Z FC features a 20.9-megapixel primary APS-C (DX) cropped sensor.",
+        "img": "https://i.ibb.co/kXtDRxT/4.png"
+    },
+    {
+        "name": "Canon mount",
+        "price": "50000",
+        "description": "The EF lens mount is the standard lens mount on the Canon EOS family of SLR film and digital cameras.",
+        "img": "https://i.ibb.co/zRVG6qc/3.jpg"
+    },
+    {
+        "name": "Canon D500",
+        "price": "41000",
+        "description": "Canon 400D has a 10.0MP APS-C (22.2 x 14.8 mm ) sized CMOS sensor . You can shoot at maximum resolution of 3888 x 2592 pixels.",
+        "img": "https://i.ibb.co/9py3LNT/5.jpg"
+    },
+    {
+        "name": "Nicon D5300",
+        "price": "40000",
+        "description": "Nikon D5300 key features · 24.1MP DX format CMOS sensor, without OLPF · EXPEED 4 processing · ISO 100-12,800 standard, up to 25,600 expanded ",
+        "img": "https://i.ibb.co/3MtTH9T/6.jpg"
+    },
+    {
+        "name": "Canon EOS",
+        "price": "50000",
+        "description": "EOS stands fo Electro-Optical System. But like the other name. Powershot means nothing in itself but generally it is Canon's line of P&S camera",
+        "img": "https://i.ibb.co/wBFcj95/7.jpg"
+    }
+]
